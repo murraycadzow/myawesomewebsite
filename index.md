@@ -1,8 +1,5 @@
-Here is my index page
+{% include menu.md %}
 
-## Links
-
-[About page](about.html)
 
 ## header 2
 
