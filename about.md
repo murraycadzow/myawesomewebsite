@@ -1,4 +1,7 @@
+{% include menu.md %}
+
 # About
+
 
 {% include contact.md %}
 
